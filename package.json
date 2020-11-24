@@ -1,0 +1,14 @@
+{
+  "name": "stirdie-javascript-sdk",
+  "version": "0.0.1",
+  "description": "Stirdie JavaScript SDK",
+  "main": "index.js",
+  "keywords": [],
+  "author": "GoLogic Group <it@gologic.com.au>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gologicgroup/stirdie-javascript-sdk.git"
+  },
+  "homepage": "https://github.com/gologicgroup/stirdie-javascript-sdk"
+}
